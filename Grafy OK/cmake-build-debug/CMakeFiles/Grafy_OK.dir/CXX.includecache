@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/julia/OneDrive - Uniwersytet im. Adama Mickiewicza w Poznaniu/studia/semestr III/optymalizacja kombinatoryczna/Grafy OK/graph.h
+iostream
+-
+vector
+-
+algorithm
+-
+random
+-
+chrono
+-
+
+C:/Users/julia/OneDrive - Uniwersytet im. Adama Mickiewicza w Poznaniu/studia/semestr III/optymalizacja kombinatoryczna/Grafy OK/main.cpp
+iostream
+-
+vector
+-
+random
+-
+graph.h
+C:/Users/julia/OneDrive - Uniwersytet im. Adama Mickiewicza w Poznaniu/studia/semestr III/optymalizacja kombinatoryczna/Grafy OK/graph.h
+
